@@ -39,12 +39,17 @@
 
 ###
 
+
+
 <div align="left">
   <a href="https://www.twitter.com/abelmuak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="mailto:abel@moonnastd.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://store.steampowered.com/app/2414000/Dashes__Squares/" target="_blank">
+    <img src="https://img.shields.io/steam/release-date/2414000" height="35" alt="steam logo"  />
   </a>
 </div>
 
