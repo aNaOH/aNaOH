@@ -39,7 +39,9 @@
 
 ###
 
-<iframe src="https://store.steampowered.com/widget/2414000/?t=Check%20out%20my%20game!" frameborder="0" width="646" height="190"></iframe>
+<div>
+  <iframe src="https://store.steampowered.com/widget/2414000/?t=Check%20out%20my%20game!" frameborder="0" width="646" height="190"></iframe>
+</div>
 
 <div align="left">
   <a href="https://www.twitter.com/abelmuak" target="_blank">
