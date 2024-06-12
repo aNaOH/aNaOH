@@ -39,7 +39,7 @@
 
 ###
 
-
+<iframe src="https://store.steampowered.com/widget/2414000/?t=Check%20out%20my%20game!" frameborder="0" width="646" height="190"></iframe>
 
 <div align="left">
   <a href="https://www.twitter.com/abelmuak" target="_blank">
@@ -47,9 +47,6 @@
   </a>
   <a href="mailto:abel@moonnastd.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://store.steampowered.com/app/2414000/Dashes__Squares/" target="_blank">
-    <img src="https://img.shields.io/steam/release-date/2414000" height="35" alt="steam logo"  />
   </a>
 </div>
 
