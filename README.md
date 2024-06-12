@@ -39,10 +39,6 @@
 
 ###
 
-<div>
-  <iframe src="https://store.steampowered.com/widget/2414000/?t=Check%20out%20my%20game!" frameborder="0" width="646" height="190"></iframe>
-</div>
-
 <div align="left">
   <a href="https://www.twitter.com/abelmuak" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
